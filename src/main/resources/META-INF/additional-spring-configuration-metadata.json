@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "twitter.consumer.key",
+    "type": "java.lang.String",
+    "description": "Twitter consumer key'"
+  },
+  {
+    "name": "twitter.consumer.secret",
+    "type": "java.lang.String",
+    "description": "Twitter consumer secret"
+  },
+  {
+    "name": "twitter.oauth.token",
+    "type": "java.lang.String",
+    "description": "oauth token"
+  },
+  {
+    "name": "twitter.oauth.secret",
+    "type": "java.lang.String",
+    "description": "oauth secret"
+  }
+]}
